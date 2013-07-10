@@ -1,4 +1,4 @@
-Apigeeapp::Application.routes.draw do
+TodoMobile::Application.routes.draw do
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
